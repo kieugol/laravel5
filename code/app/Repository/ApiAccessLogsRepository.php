@@ -1,0 +1,21 @@
+<?php
+/**
+ * Created by PhpStorm.
+ * User: DELL-PC
+ * Date: 11/7/2018
+ * Time: 5:54 PM
+ */
+
+namespace App\Repository;
+
+
+use App\Model\ApiAccessLogs;
+
+class ApiAccessLogsRepository extends BaseRepository
+{
+    public function __construct(ApiAccessLogs $model)
+    {
+        parent::__construct($model);
+    }
+
+}
