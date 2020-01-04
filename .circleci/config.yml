@@ -22,7 +22,7 @@ jobs:
         name: Install PHP exts
         command: |
           sudo apt -y install zip
-          sudo apt -y install php7.1-intl
+          sudo apt -y install php7.0-intl
           sudo apt -y install pdo_mysql
           sudo apt install -y mariadb-client
     - run: sudo composer self-update
