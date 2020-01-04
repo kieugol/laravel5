@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b3e450df-4576-409a-aed6-830f009d439c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.circleci/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.circleci/config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,13 +46,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="beta" value="21" />
-          <entry key="yml" value="67" />
+          <entry key="yml" value="74" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="21" />
-          <entry key="YAML" value="67" />
+          <entry key="YAML" value="74" />
         </counts>
       </usages-collector>
     </session>
@@ -62,7 +63,7 @@
         <entry file="file://$PROJECT_DIR$/.circleci/config.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+              <caret line="25" column="39" lean-forward="true" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -173,12 +174,12 @@
       <workItem from="1577895051355" duration="350000" />
       <workItem from="1577978781143" duration="2824000" />
       <workItem from="1578124658177" duration="3863000" />
-      <workItem from="1578132356769" duration="1040000" />
+      <workItem from="1578132356769" duration="2009000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8545000" />
+    <option name="totallyTimeSpent" value="9514000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -188,7 +189,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32991204" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -197,7 +198,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3020528" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.03372434" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -215,7 +216,7 @@
     <entry file="file://$PROJECT_DIR$/.circleci/config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+          <caret line="25" column="39" lean-forward="true" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
         </state>
       </provider>
     </entry>

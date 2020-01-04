@@ -21,8 +21,9 @@ jobs:
     - run:
         name: Install PHP exts
         command: |
-          sudo docker-php-ext-install zip
-          sudo docker-php-ext-install pdo_mysql
+          sudo apt -y install zip
+          sudo apt -y install php-intl
+          sudo apt -y install pdo_mysql
           sudo apt install -y mariadb-client
     - run: sudo composer self-update
     # Download and cache dependencies
