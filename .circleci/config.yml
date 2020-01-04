@@ -15,7 +15,7 @@ jobs:
         MYSQL_ROOT_PASSWORD: ''
         MYSQL_DATABASE: laravel
 
-    working_directory: ~/code
+    working_directory: ~laravel5/code
 
     steps:
     - checkout
