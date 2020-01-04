@@ -87,8 +87,8 @@ define('STATUS_NOT_DONE', 'N');
 
 define('API_POS_RESYNC_ORDER_STATUS', 'https://localhost:443/api_v1/cronjob/resync_order_into_callcenter');
 define('API_INVENTORY', 'https://localhost:443/api_v1/inventory');
-define('API_JUMPBOX', 'https://jumpbox.diqit.io/api/v1');
-define('API_POSAPI', 'https://pos.diqit.io/api_v1');
+define('API_JUMPBOX', 'https://jumpbox.laravel-admin.io/api/v1');
+define('API_POSAPI', 'https://pos.laravel-admin.io/api_v1');
 
 define('SYNC_VERSION_TYPE_MENU', 'menu');
 define('SYNC_VERSION_TYPE_PROMOTION', 'promotion');
@@ -172,7 +172,7 @@ define('DOWNLOAD_ORDER_TAKER', [
     DOWNLOAD_ORDER_TAKER_SUCCESS => 'Success',
     DOWNLOAD_ORDER_TAKER_FAILED  => 'Failed',
 ]);
-define('BASE_URL_ORDER_TAKER', 'https://posmanager.diqit.io/upload/order_taker');
+define('BASE_URL_ORDER_TAKER', 'https://laravel-admin.test.io/upload/order_taker');
 
 define('STATUS_ACTIVE', 1);
 define('STATUS_INACTIVE', 0);
@@ -358,7 +358,7 @@ define('DAILY_RECEIVE', 'RCV');
 define('DAILY_RETURN', 'RTN');
 
 define('INVENTORY_FOLDER_SYNC_MASTER', '/db/inventory/sync-data');
-define('URL_SYNC_MASTER_TO_JUMPBOX', 'https://jumpbox.diqit.io/api/v1/sync-data');
+define('URL_SYNC_MASTER_TO_JUMPBOX', 'https://jumpbox.laravel-admin.io/api/v1/sync-data');
 
 /**
  * Define inventory_master_group

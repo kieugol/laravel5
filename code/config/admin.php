@@ -2,7 +2,7 @@
 
 return [
     
-    'pos_api_url' => 'https://pos.diqit.io/api_v1/',
+    'pos_api_url' => 'https://pos.laravel-admin.io/api_v1/',
     'inventory_api_url' => env('INVENTORY_API_URL'),
     'order_types' => array(
         'C' => "Takeaway",

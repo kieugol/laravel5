@@ -6,7 +6,7 @@
  * The base class model for all model extend
  *
  * @category  Model
- * @author krol kvrol@diqit.io
+ * @author krol kvrol@laravel-admin.io
  */
 
 namespace App\Model;
