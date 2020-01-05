@@ -44,9 +44,9 @@ jobs:
         name: Setup Laravel testing environment variables for CircleCI test
         command: cp .env.testing .env
 
-    - run:
-        name: Update composer to latest version
-        command: composer self-update
+#    - run:
+#        name: Update composer to latest version
+#        command: composer self-update
 
     - restore_cache:
         keys:
